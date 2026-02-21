@@ -23,7 +23,7 @@ Clone the repository and run the script directly from your terminal.
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/rizwanahmed109-beep/Python-Tic_Tac_Toe_gui.git
+git clone https://github.com/RZ-Logic/Python-Tic_Tac_Toe_gui.git
 cd Python-Tic_Tac_Toe_gui
 ```
 
