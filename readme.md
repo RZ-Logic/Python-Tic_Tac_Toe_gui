@@ -21,7 +21,20 @@ This project demonstrates the application of **Game Theory** in AI. The Minimax 
 
 Clone the repository and run the script directly from your terminal.
 
+**1. Clone the repository:**
+```bash
+git clone https://github.com/rizwanahmed109-beep/Python-Tic_Tac_Toe_gui.git
+cd Python-Tic_Tac_Toe_gui
+```
+
+**2. Execute the script:**
+
 ### Windows
-Open Command Prompt or PowerShell:
 ```cmd
 python tic_tac_toe_gui.py
+```
+
+### macOS and Linux
+```bash
+python3 tic_tac_toe_gui.py
+```
